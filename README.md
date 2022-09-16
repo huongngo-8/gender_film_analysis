@@ -7,3 +7,5 @@ While my project @ Meta was a simple EDA to make a content pitch for a fictious 
 From my personal experience of feeling lost about cleaning datasets to start personal projects, I wrote a Medium article explaining my rigorous methodology that I have also applied to this project. Given the analysis I've done to this dataset, I'm currently finalizing a Medium article called "Exploring Gender Representation in Films w/ Simple NLP + Hypothesis Testing". 
 
 This project has taught me about NLP, an area I've become more interested in, and also more complex hypothesis testing methods beyond the usual taught in introductory statistics classes.
+
+Here's my data cleaning article: https://towardsdatascience.com/how-to-clean-your-data-in-python-8f178638b98d
